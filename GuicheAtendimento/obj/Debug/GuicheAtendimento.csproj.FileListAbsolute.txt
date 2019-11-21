@@ -1,0 +1,18 @@
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\bin\Debug\GuicheAtendimento.exe.config
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\bin\Debug\GuicheAtendimento.exe
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\bin\Debug\GuicheAtendimento.pdb
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.csprojResolveAssemblyReference.cache
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.Form1.resources
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.Properties.Resources.resources
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.csproj.GenerateResource.Cache
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.exe
+E:\Aula 31-08\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.pdb
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\bin\Debug\GuicheAtendimento.exe.config
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.exe
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.pdb
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.csprojResolveAssemblyReference.cache
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.Form1.resources
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.Properties.Resources.resources
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\obj\Debug\GuicheAtendimento.csproj.GenerateResource.Cache
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\bin\Debug\GuicheAtendimento.exe
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-31\GuicheAtendimento\GuicheAtendimento\bin\Debug\GuicheAtendimento.pdb
